@@ -56,10 +56,10 @@ const SHOP_ITEMS = [
   { id: "advanced-deck", type: "deck", name: "심화 앙금 카드팩", desc: "전이금속·수산화물 등 10종의 심화 카드를 암기카드와 게임에 추가해요.", price: 2000 },
   { id: "hint-pack", type: "consumable", name: "힌트 토큰 3개", desc: "게임 중 모든 카드를 잠깐 보여주는 힌트를 3회 충전해요.", price: 600 },
   { id: "title-beginner", type: "title", name: "화학 초보", desc: "프로필에 표시되는 칭호예요.", price: 1000 },
-  { id: "box-small", type: "randombox", name: "미스터리 상자 (소)", desc: "100 ~ 4,000 포인트 중 무작위로 즉시 획득해요.", price: 2000, min: 100, max: 4000 },
+  { id: "box-small", type: "randombox", name: "미스터리 상자 (소)", desc: "500 ~ 5,000 포인트 중 무작위로 즉시 획득해요.", price: 2000, min: 500, max: 5000 },
   { id: "title-intermediate", type: "title", name: "화학 중수", desc: "프로필에 표시되는 칭호예요.", price: 5000 },
   { id: "title-master", type: "title", name: "화학 마스터", desc: "프로필에 표시되는 칭호예요.", price: 10000 },
-  { id: "box-large", type: "randombox", name: "미스터리 상자 (대)", desc: "2,000 ~ 60,000 포인트 중 무작위로 즉시 획득해요.", price: 20000, min: 2000, max: 60000 },
+  { id: "box-large", type: "randombox", name: "미스터리 상자 (대)", desc: "5,000 ~ 60,000 포인트 중 무작위로 즉시 획득해요.", price: 20000, min: 5000, max: 60000 },
   { id: "title-luck", type: "title", name: "운의 신", desc: "프로필에 표시되는 전설의 칭호예요.", price: 200000 },
 ];
 
