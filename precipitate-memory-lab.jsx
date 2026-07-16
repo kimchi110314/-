@@ -59,8 +59,9 @@ const SHOP_ITEMS = [
   { id: "box-small", type: "randombox", name: "미스터리 상자 (소)", desc: "500 ~ 5,000 포인트 중 무작위로 즉시 획득해요.", price: 2000, min: 500, max: 5000 },
   { id: "title-intermediate", type: "title", name: "화학 중수", desc: "프로필에 표시되는 칭호예요.", price: 5000 },
   { id: "title-master", type: "title", name: "화학 마스터", desc: "프로필에 표시되는 칭호예요.", price: 10000 },
-  { id: "box-large", type: "randombox", name: "미스터리 상자 (대)", desc: "5,000 ~ 60,000 포인트 중 무작위로 즉시 획득해요.", price: 20000, min: 5000, max: 60000 },
-  { id: "title-luck", type: "title", name: "운의 신", desc: "프로필에 표시되는 전설의 칭호예요.", price: 200000 },
+  { id: "box-midium", type: "randombox", name: "미스터리 상자 (중)", desc: "4,000 ~ 40,000 포인트 중 무작위로 즉시 획득해요.", price: 20000, min: 4000, max: 40000 },
+  { id: "box-large", type: "randombox", name: "미스터리 상자 (대)", desc: "5,000 ~ 100,000 포인트 중 무작위로 즉시 획득해요.", price: 50000, min: 5000, max: 100000 },
+  { id: "title-luck", type: "title", name: "운의 신", desc: "프로필에 표시되는 전설의 칭호예요.", price: 400000 },
 ];
 
 const DEFAULT_PROFILE = {
