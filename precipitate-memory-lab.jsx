@@ -67,7 +67,7 @@ const SHOP_ITEMS = [
 ];
 
 const DEFAULT_PROFILE = {
-  points: 0,
+  points: 100,
   themes: [],
   advancedUnlocked: false,
   hintTokens: 0,
